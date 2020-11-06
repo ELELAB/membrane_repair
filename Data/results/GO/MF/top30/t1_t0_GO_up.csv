@@ -1,0 +1,31 @@
+"","GO.ID","Term","Annotated","Significant","Expected","fisher","elim","FDR_fisher","FDR_elim"
+"1","GO:0001077","transcriptional activator activity, RNA ...",255,9,0.47,"5.0e-10","5.0e-10",1.5e-08,1.5e-08
+"2","GO:0000978","RNA polymerase II core promoter proximal...",330,8,0.6,"9.8e-08","9.8e-08",8.25e-07,1.47e-06
+"3","GO:0008134","transcription factor binding",507,9,0.93,"1.9e-07","1.1e-05",1.14e-06,0.00011
+"4","GO:0004879","RNA polymerase II transcription factor a...",48,3,0.09,"9.0e-05","9.0e-05",0.00045,0.000675
+"5","GO:0003707","steroid hormone receptor activity",59,3,0.11,"0.00017","0.00017",0.000675,9e-04
+"6","GO:0035259","glucocorticoid receptor binding",11,2,0.02,"0.00018","0.00018",0.000675,9e-04
+"7","GO:0071837","HMG box domain binding",17,2,0.03,"0.00043","0.00043",0.00143333333333333,0.00184285714285714
+"8","GO:0070412","R-SMAD binding",21,2,0.04,"0.00066","0.00066",0.00198,0.002475
+"9","GO:0071889","14-3-3 protein binding",23,2,0.04,"0.00080","0.00080",0.00218181818181818,0.00266666666666667
+"10","GO:0046982","protein heterodimerization activity",423,5,0.77,"0.00093","0.00093",0.002325,0.00278181818181818
+"11","GO:0035035","histone acetyltransferase binding",26,2,0.05,"0.00102","0.00102",0.00235384615384615,0.00278181818181818
+"12","GO:0005520","insulin-like growth factor binding",28,2,0.05,"0.00119","0.00119",0.00255,0.002975
+"13","GO:0003682","chromatin binding",471,5,0.86,"0.00151","0.00151",0.00302,0.00348461538461538
+"14","GO:0045517","interleukin-20 receptor binding",1,1,0,"0.00183","0.00183",0.00343125,0.00392142857142857
+"15","GO:0001102","RNA polymerase II activating transcripti...",38,2,0.07,"0.00218","0.00218",0.00384705882352941,0.00436
+"16","GO:0045518","interleukin-22 receptor binding",2,1,0,"0.00366","0.00366",0.0061,0.0068625
+"17","GO:0000979","RNA polymerase II core promoter sequence...",56,2,0.1,"0.00469","0.00469",0.00685,0.00714782608695652
+"18","GO:0003700","transcription factor activity, sequence-...",1198,14,2.19,"5.5e-09","0.00544",8.25e-08,0.00714782608695652
+"19","GO:0008330","protein tyrosine/threonine phosphatase a...",3,1,0.01,"0.00548","0.00548",0.00685,0.00714782608695652
+"20","GO:0008502","melatonin receptor activity",3,1,0.01,"0.00548","0.00548",0.00685,0.00714782608695652
+"21","GO:0008597","calcium-dependent protein serine/threoni...",3,1,0.01,"0.00548","0.00548",0.00685,0.00714782608695652
+"22","GO:0015018","galactosylgalactosylxylosylprotein 3-bet...",3,1,0.01,"0.00548","0.00548",0.00685,0.00714782608695652
+"23","GO:0044729","hemi-methylated DNA-binding",3,1,0.01,"0.00548","0.00548",0.00685,0.00714782608695652
+"24","GO:0003677","DNA binding",2402,17,4.39,"1.1e-07","0.00886",8.25e-07,0.010932
+"25","GO:0010385","double-stranded methylated DNA binding",5,1,0.01,"0.00911","0.00911",0.010932,0.010932
+"26","GO:0004887","thyroid hormone receptor activity",7,1,0.01,"0.01274","0.01274",0.0141555555555556,0.0141555555555556
+"27","GO:0019957","C-C chemokine binding",7,1,0.01,"0.01274","0.01274",0.0141555555555556,0.0141555555555556
+"28","GO:0004726","non-membrane spanning protein tyrosine p...",8,1,0.01,"0.01454","0.01454",0.0146,0.0146
+"29","GO:0008140","cAMP response element binding protein bi...",8,1,0.01,"0.01454","0.01454",0.0146,0.0146
+"30","GO:0005178","integrin binding",101,2,0.18,"0.01460","0.01460",0.0146,0.0146

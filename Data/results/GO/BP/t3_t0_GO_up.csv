@@ -1,0 +1,31 @@
+"","GO.ID","Term","Annotated","Significant","Expected","fisher","elim","FDR_fisher","FDR_elim"
+"1","GO:0045944","positive regulation of transcription fro...",1040,40,12.1,"1.4e-11","2.6e-09",2.1e-10,7.8e-08
+"2","GO:0034097","response to cytokine",794,38,9.24,"6.6e-14","6.3e-08",1.98e-12,9.45e-07
+"3","GO:0051591","response to cAMP",95,10,1.11,"1.5e-07","1.5e-07",7.5e-07,1.5e-06
+"4","GO:0070373","negative regulation of ERK1 and ERK2 cas...",55,8,0.64,"2.2e-07","2.2e-07",8.25e-07,1.65e-06
+"5","GO:0000122","negative regulation of transcription fro...",736,28,8.56,"3.1e-08","3.1e-07",2.325e-07,1.86e-06
+"6","GO:0032496","response to lipopolysaccharide",303,19,3.52,"2.6e-09","1.3e-06",2.6e-08,6.5e-06
+"7","GO:0019221","cytokine-mediated signaling pathway",547,20,6.36,"6.2e-06","6.2e-06",1.86e-05,2.65714285714286e-05
+"8","GO:0000188","inactivation of MAPK activity",26,5,0.3,"1.1e-05","1.1e-05",3e-05,4.125e-05
+"9","GO:0071376","cellular response to corticotropin-relea...",5,3,0.06,"1.5e-05","1.5e-05",3.75e-05,5e-05
+"10","GO:0045444","fat cell differentiation",205,14,2.38,"1.2e-07","3.6e-05",7.2e-07,0.000100909090909091
+"11","GO:0032922","circadian regulation of gene expression",54,6,0.63,"3.7e-05","3.7e-05",7.92857142857143e-05,0.000100909090909091
+"12","GO:0071356","cellular response to tumor necrosis fact...",261,12,3.04,"5.6e-05","5.6e-05",0.000112,0.00014
+"13","GO:0036499","PERK-mediated unfolded protein response",21,4,0.24,"9.1e-05","9.1e-05",0.000170625,0.00021
+"14","GO:0043589","skin morphogenesis",9,3,0.1,"0.00012","0.00012",0.000211764705882353,0.000257142857142857
+"15","GO:1901652","response to peptide",439,20,5.11,"2.1e-07","0.00013",8.25e-07,0.00026
+"16","GO:0042542","response to hydrogen peroxide",126,10,1.47,"2.1e-06","0.00014",7e-06,0.0002625
+"17","GO:0061469","regulation of type B pancreatic cell pro...",10,3,0.12,"0.00018","0.00018",0.000284210526315789,3e-04
+"18","GO:0044344","cellular response to fibroblast growth f...",135,8,1.57,"0.00018","0.00018",0.000284210526315789,3e-04
+"19","GO:0048661","positive regulation of smooth muscle cel...",72,6,0.84,"0.00019","0.00019",0.000285,3e-04
+"20","GO:0071260","cellular response to mechanical stimulus",74,6,0.86,"0.00022","0.00022",0.000314285714285714,0.00033
+"21","GO:0045667","regulation of osteoblast differentiation",107,7,1.24,"0.00025","0.00025",0.000340909090909091,0.000357142857142857
+"22","GO:0071277","cellular response to calcium ion",51,5,0.59,"0.00031","0.00031",0.000404347826086957,0.000422727272727273
+"23","GO:0034137","positive regulation of toll-like recepto...",3,2,0.03,"0.00040","0.00040",0.00041,0.000424137931034483
+"24","GO:0034140","negative regulation of toll-like recepto...",3,2,0.03,"0.00040","0.00040",0.00041,0.000424137931034483
+"25","GO:0071409","cellular response to cycloheximide",3,2,0.03,"0.00040","0.00040",0.00041,0.000424137931034483
+"26","GO:1903984","positive regulation of TRAIL-activated a...",3,2,0.03,"0.00040","0.00040",0.00041,0.000424137931034483
+"27","GO:0043124","negative regulation of I-kappaB kinase/N...",54,5,0.63,"0.00040","0.00040",0.00041,0.000424137931034483
+"28","GO:0032691","negative regulation of interleukin-1 bet...",13,3,0.15,"0.00041","0.00041",0.00041,0.000424137931034483
+"29","GO:0045651","positive regulation of macrophage differ...",13,3,0.15,"0.00041","0.00041",0.00041,0.000424137931034483
+"30","GO:0006954","inflammatory response",642,21,7.47,"1.9e-05","0.00049",4.38461538461538e-05,0.00049

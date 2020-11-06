@@ -1,0 +1,31 @@
+"","GO.ID","Term","Annotated","Significant","Expected","fisher","elim","FDR_fisher","FDR_elim"
+"1","GO:0051591","response to cAMP",95,6,0.18,"2.1e-08","2.1e-08",2.1e-07,6.1e-07
+"2","GO:0045944","positive regulation of transcription fro...",1040,14,1.96,"1.5e-09","6.1e-08",4.5e-08,6.1e-07
+"3","GO:0071376","cellular response to corticotropin-relea...",5,3,0.01,"6.1e-08","6.1e-08",4.575e-07,6.1e-07
+"4","GO:0071277","cellular response to calcium ion",51,4,0.1,"2.4e-06","2.4e-06",1.44e-05,1.8e-05
+"5","GO:0032870","cellular response to hormone stimulus",610,11,1.15,"7.3e-09","5.0e-06",1.095e-07,3e-05
+"6","GO:0035914","skeletal muscle cell differentiation",64,4,0.12,"6.1e-06","6.1e-06",2.61428571428571e-05,3.05e-05
+"7","GO:0000122","negative regulation of transcription fro...",736,9,1.39,"5.8e-06","3.6e-05",2.61428571428571e-05,0.0001425
+"8","GO:0045444","fat cell differentiation",205,5,0.39,"3.8e-05","3.8e-05",0.000103636363636364,0.0001425
+"9","GO:0044344","cellular response to fibroblast growth f...",135,4,0.25,"0.00012","0.00012",0.000276923076923077,4e-04
+"10","GO:0061469","regulation of type B pancreatic cell pro...",10,2,0.02,"0.00015","0.00015",0.000321428571428571,0.00045
+"11","GO:0060395","SMAD protein signal transduction",57,3,0.11,"0.00017","0.00017",0.00034,0.000463636363636364
+"12","GO:0001938","positive regulation of endothelial cell ...",69,3,0.13,"0.00029","0.00029",0.000529411764705882,0.000692307692307692
+"13","GO:0006367","transcription initiation from RNA polyme...",173,4,0.33,"0.00030","0.00030",0.000529411764705882,0.000692307692307692
+"14","GO:0043401","steroid hormone mediated signaling pathw...",177,4,0.33,"0.00033","0.00033",0.00055,0.000707142857142857
+"15","GO:0045597","positive regulation of cell differentiat...",832,9,1.57,"1.6e-05","0.00041",5.33333333333333e-05,0.00082
+"16","GO:0043065","positive regulation of apoptotic process",562,7,1.06,"6.8e-05","0.00045",0.00017,0.00084375
+"17","GO:0043153","entrainment of circadian clock by photop...",18,2,0.03,"0.00052","0.00052",0.000821052631578947,0.000886363636363636
+"18","GO:0035994","response to muscle stretch",19,2,0.04,"0.00058","0.00058",0.000828571428571429,0.000886363636363636
+"19","GO:0051412","response to corticosterone",19,2,0.04,"0.00058","0.00058",0.000828571428571429,0.000886363636363636
+"20","GO:0060716","labyrinthine layer blood vessel developm...",20,2,0.04,"0.00064","0.00064",0.000834782608695652,0.000886363636363636
+"21","GO:1902895","positive regulation of pri-miRNA transcr...",20,2,0.04,"0.00064","0.00064",0.000834782608695652,0.000886363636363636
+"22","GO:0009314","response to radiation",423,7,0.8,"1.1e-05","0.00065",4.125e-05,0.000886363636363636
+"23","GO:0032897","negative regulation of viral transcripti...",24,2,0.05,"0.00093","0.00093",0.00107307692307692,0.001116
+"24","GO:0035767","endothelial cell chemotaxis",24,2,0.05,"0.00093","0.00093",0.00107307692307692,0.001116
+"25","GO:0045672","positive regulation of osteoclast differ...",24,2,0.05,"0.00093","0.00093",0.00107307692307692,0.001116
+"26","GO:0033687","osteoblast proliferation",27,2,0.05,"0.00118","0.00118",0.00131111111111111,0.00136153846153846
+"27","GO:0045616","regulation of keratinocyte differentiati...",30,2,0.06,"0.00145","0.00145",0.00153103448275862,0.00158571428571429
+"28","GO:0030522","intracellular receptor signaling pathway",265,4,0.5,"0.00148","0.00148",0.00153103448275862,0.00158571428571429
+"29","GO:0048511","rhythmic process",312,6,0.59,"2.2e-05","0.00165",6.6e-05,0.00170689655172414
+"30","GO:0002042","cell migration involved in sprouting ang...",33,2,0.06,"0.00176","0.00176",0.00176,0.00176

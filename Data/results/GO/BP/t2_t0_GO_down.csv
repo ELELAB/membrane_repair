@@ -1,0 +1,31 @@
+"","GO.ID","Term","Annotated","Significant","Expected","fisher","elim","FDR_fisher","FDR_elim"
+"1","GO:0005978","glycogen biosynthetic process",48,2,0.03,"0.00045","0.00045",0.01005,0.01005
+"2","GO:0071228","cellular response to tumor cell",1,1,0,"0.00067","0.00067",0.01005,0.01005
+"3","GO:0042472","inner ear morphogenesis",94,2,0.06,"0.00172","0.00172",0.0114857142857143,0.0114857142857143
+"4","GO:0001657","ureteric bud development",97,2,0.06,"0.00184","0.00184",0.0114857142857143,0.0114857142857143
+"5","GO:0071895","odontoblast differentiation",3,1,0,"0.00201","0.00201",0.0114857142857143,0.0114857142857143
+"6","GO:0048852","diencephalon morphogenesis",4,1,0,"0.00268","0.00268",0.0114857142857143,0.0114857142857143
+"7","GO:0051387","negative regulation of neurotrophin TRK ...",4,1,0,"0.00268","0.00268",0.0114857142857143,0.0114857142857143
+"8","GO:0005981","regulation of glycogen catabolic process",6,1,0,"0.00401","0.00401",0.01332,0.01332
+"9","GO:0060449","bud elongation involved in lung branchin...",7,1,0,"0.00468","0.00468",0.01332,0.01332
+"10","GO:0006357","regulation of transcription from RNA pol...",1857,5,1.24,"0.00473","0.00473",0.01332,0.01332
+"11","GO:0007163","establishment or maintenance of cell pol...",169,2,0.11,"0.00545","0.00545",0.01332,0.01332
+"12","GO:1901654","response to ketone",174,2,0.12,"0.00577","0.00577",0.01332,0.01332
+"13","GO:0040037","negative regulation of fibroblast growth...",12,1,0.01,"0.00801","0.00801",0.01332,0.01332
+"14","GO:0045820","negative regulation of glycolytic proces...",12,1,0.01,"0.00801","0.00801",0.01332,0.01332
+"15","GO:0010801","negative regulation of peptidyl-threonin...",13,1,0.01,"0.00868","0.00868",0.01332,0.01332
+"16","GO:0045893","positive regulation of transcription, DN...",1339,4,0.9,"0.00912","0.00912",0.01332,0.01332
+"17","GO:0051782","negative regulation of cell division",15,1,0.01,"0.01001","0.01001",0.01332,0.01332
+"18","GO:0006469","negative regulation of protein kinase ac...",237,2,0.16,"0.01047","0.01047",0.01332,0.01332
+"19","GO:0000132","establishment of mitotic spindle orienta...",16,1,0.01,"0.01067","0.01067",0.01332,0.01332
+"20","GO:0006470","protein dephosphorylation",246,2,0.16,"0.01125","0.01125",0.01332,0.01332
+"21","GO:0010667","negative regulation of cardiac muscle ce...",17,1,0.01,"0.01133","0.01133",0.01332,0.01332
+"22","GO:0033673","negative regulation of kinase activity",251,2,0.17,"0.01169","0.01169",0.01332,0.01332
+"23","GO:0032288","myelin assembly",18,1,0.01,"0.01200","0.01200",0.01332,0.01332
+"24","GO:2000178","negative regulation of neural precursor ...",18,1,0.01,"0.01200","0.01200",0.01332,0.01332
+"25","GO:0001759","organ induction",19,1,0.01,"0.01266","0.01266",0.01332,0.01332
+"26","GO:1901214","regulation of neuron death",264,2,0.18,"0.01287","0.01287",0.01332,0.01332
+"27","GO:0010664","negative regulation of striated muscle c...",20,1,0.01,"0.01332","0.01332",0.01332,0.01332
+"28","GO:0014912","negative regulation of smooth muscle cel...",20,1,0.01,"0.01332","0.01332",0.01332,0.01332
+"29","GO:0040001","establishment of mitotic spindle localiz...",20,1,0.01,"0.01332","0.01332",0.01332,0.01332
+"30","GO:0045663","positive regulation of myoblast differen...",20,1,0.01,"0.01332","0.01332",0.01332,0.01332

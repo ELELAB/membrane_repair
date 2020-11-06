@@ -1,0 +1,31 @@
+"","GO.ID","Term","Annotated","Significant","Expected","fisher","elim","FDR_fisher","FDR_elim"
+"1","GO:0006355","regulation of transcription, DNA-templat...",3501,15,4.69,"3e-06","0.00039",9e-05,0.0117
+"2","GO:0071228","cellular response to tumor cell",1,1,0,"0.00134","0.00134",0.0134,0.01605
+"3","GO:0006357","regulation of transcription from RNA pol...",1857,8,2.49,"0.00196","0.00196",0.01368,0.01605
+"4","GO:0009952","anterior/posterior pattern specification",199,3,0.27,"0.00228","0.00228",0.01368,0.01605
+"5","GO:0048866","stem cell fate specification",3,1,0,"0.00401","0.00401",0.0145909090909091,0.01605
+"6","GO:0070315","G1 to G0 transition involved in cell dif...",3,1,0,"0.00401","0.00401",0.0145909090909091,0.01605
+"7","GO:0071895","odontoblast differentiation",3,1,0,"0.00401","0.00401",0.0145909090909091,0.01605
+"8","GO:0048852","diencephalon morphogenesis",4,1,0.01,"0.00535","0.00535",0.0145909090909091,0.01605
+"9","GO:0051387","negative regulation of neurotrophin TRK ...",4,1,0.01,"0.00535","0.00535",0.0145909090909091,0.01605
+"10","GO:0060214","endocardium formation",4,1,0.01,"0.00535","0.00535",0.0145909090909091,0.01605
+"11","GO:0043009","chordate embryonic development",557,4,0.75,"0.00589","0.00589",0.014725,0.0160636363636364
+"12","GO:0042472","inner ear morphogenesis",94,2,0.13,"0.00695","0.00695",0.0160384615384615,0.017375
+"13","GO:0060956","endocardial cell differentiation",6,1,0.01,"0.00801","0.00801",0.0171642857142857,0.0184846153846154
+"14","GO:0060449","bud elongation involved in lung branchin...",7,1,0.01,"0.00934","0.00934",0.0175125,0.01868
+"15","GO:0060836","lymphatic endothelial cell differentiati...",7,1,0.01,"0.00934","0.00934",0.0175125,0.01868
+"16","GO:0048706","embryonic skeletal system development",122,2,0.16,"0.01148","0.01148",0.0202588235294118,0.021525
+"17","GO:0003376","sphingosine-1-phosphate signaling pathwa...",12,1,0.02,"0.01597","0.01597",0.0227464285714286,0.0233275862068966
+"18","GO:0030208","dermatan sulfate biosynthetic process",12,1,0.02,"0.01597","0.01597",0.0227464285714286,0.0233275862068966
+"19","GO:0040037","negative regulation of fibroblast growth...",12,1,0.02,"0.01597","0.01597",0.0227464285714286,0.0233275862068966
+"20","GO:0030205","dermatan sulfate metabolic process",13,1,0.02,"0.01729","0.01729",0.0227464285714286,0.0233275862068966
+"21","GO:0090520","sphingolipid mediated signaling pathway",13,1,0.02,"0.01729","0.01729",0.0227464285714286,0.0233275862068966
+"22","GO:0030207","chondroitin sulfate catabolic process",14,1,0.02,"0.01860","0.01860",0.0227464285714286,0.0233275862068966
+"23","GO:0050651","dermatan sulfate proteoglycan biosynthet...",15,1,0.02,"0.01992","0.01992",0.0227464285714286,0.0233275862068966
+"24","GO:0051782","negative regulation of cell division",15,1,0.02,"0.01992","0.01992",0.0227464285714286,0.0233275862068966
+"25","GO:0000132","establishment of mitotic spindle orienta...",16,1,0.02,"0.02123","0.02123",0.0227464285714286,0.0233275862068966
+"26","GO:0001946","lymphangiogenesis",16,1,0.02,"0.02123","0.02123",0.0227464285714286,0.0233275862068966
+"27","GO:0050655","dermatan sulfate proteoglycan metabolic ...",16,1,0.02,"0.02123","0.02123",0.0227464285714286,0.0233275862068966
+"28","GO:0048562","embryonic organ morphogenesis",282,4,0.38,"0.00049","0.02187",0.00735,0.0233275862068966
+"29","GO:0042789","mRNA transcription from RNA polymerase I...",17,1,0.02,"0.02255","0.02255",0.0233275862068966,0.0233275862068966
+"30","GO:0006337","nucleosome disassembly",18,1,0.02,"0.02386","0.02386",0.02386,0.02386

@@ -1,0 +1,9 @@
+,GO.ID,Term,Annotated,Significant,Expected,fisher,elim,FDR_fisher,FDR_elim
+2,GO:0034097,response to cytokine,793,38,9.2,5.80E-14,6.10E-08,1.74E-12,9.15E-07
+6,GO:0032496,response to lipopolysaccharide,302,19,3.5,2.40E-09,1.20E-06,2.40E-08,6.00E-06
+7,GO:0019221,cytokine-mediated signaling pathway,546,20,6.33,5.70E-06,5.70E-06,1.71E-05,2.44E-05
+12,GO:0071356,cellular response to tumor necrosis fact...,260,12,3.02,5.30E-05,5.30E-05,0.000106,0.0001325
+23,GO:0043124,negative regulation of I-kappaB kinase/N...,54,5,0.63,0.0004,0.0004,4.00E-04,0.0004137931
+24,GO:0034137,positive regulation of toll-like recepto...,3,2,0.03,0.0004,0.0004,4.00E-04,0.0004137931
+28,GO:0032691,negative regulation of interleukin-1 bet...,13,3,0.15,0.0004,0.0004,4.00E-04,0.0004137931
+30,GO:0006954,inflammatory response,642,21,7.45,1.80E-05,0.00046,4.15E-05,0.00046

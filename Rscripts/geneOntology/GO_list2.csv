@@ -1,0 +1,8 @@
+,GO.ID,Term,Annotated,Significant,Expected,fisher,elim,FDR_fisher,FDR_elim
+13,GO:0036499,PERK-mediated unfolded protein response,21,4,0.24,9.00E-05,9.00E-05,0.00016875,0.0002076923
+16,GO:0042542,response to hydrogen peroxide,126,10,1.46,2.10E-06,0.00014,7.00E-06,0.0002625
+8,GO:0000188,inactivation of MAPK activity,26,5,0.3,1.10E-05,1.10E-05,3.00E-05,4.13E-05
+18,GO:0044344,cellular response to fibroblast growth f...,135,8,1.57,0.00018,0.00018,0.0002842105,3.00E-04
+11,GO:0032922,circadian regulation of gene expression,55,6,0.64,4.10E-05,4.10E-05,8.79E-05,0.0001118182
+9,GO:0071376,cellular response to corticotropin-relea...,5,3,0.06,1.50E-05,1.50E-05,3.75E-05,5.00E-05
+27,GO:1903984,positive regulation of TRAIL-activated a...,3,2,0.03,0.0004,0.0004,4.00E-04,0.0004137931
